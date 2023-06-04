@@ -1,0 +1,51 @@
+﻿[
+    {
+        "modelo": "fiat",
+        "puertas": 4,
+        "color": "verde",
+        "precio_base": 120000.0,
+        "marca": "fiat",
+        "patente": "EO74",
+        "anio": 2015,
+        "kilometraje": 1500.0,
+        "tipo": "usado"
+    },
+    {
+        "modelo": "Palio",
+        "puertas": 4,
+        "color": "Rojo",
+        "precio_base": 15000.0,
+        "marca": "Fiat",
+        "version": "base",
+        "tipo": "nuevo"
+    },
+    {
+        "modelo": "jeep",
+        "puertas": 4,
+        "color": "azul",
+        "precio_base": 20000.0,
+        "marca": "rubicon",
+        "version": "full",
+        "tipo": "nuevo"
+    },
+    {
+        "modelo": "Focus",
+        "puertas": 5,
+        "color": "Azul",
+        "precio_base": 10000.0,
+        "marca": "Ford",
+        "patente": "ABC123",
+        "anio": 2015,
+        "kilometraje": 90000.0,
+        "tipo": "usado"
+    },
+    {
+        "modelo": "Civic",
+        "puertas": 4,
+        "color": "Gris",
+        "precio_base": 25000.0,
+        "marca": "Honda",
+        "version": "full",
+        "tipo": "nuevo"
+    }
+]
